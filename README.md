@@ -7,7 +7,7 @@
 自動詞條記憶 等等。  
 現在 只有 Win10版。  
 
-## slides <a href = "https://sites.google.com/d/1nJLMdRL7QjlelUTNrFv5HquLirh39lyM/p/1WLo8TzXsOPvUJnz_mtfAKMRNWZNDoqla/edit" slides>
+## slides <a href = "https://sites.google.com/d/1nJLMdRL7QjlelUTNrFv5HquLirh39lyM/p/1WLo8TzXsOPvUJnz_mtfAKMRNWZNDoqla/edit"> slides</a>
   
   
 <!--big> 下載  <a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>台音7.0 安裝程式</a> </big-->
