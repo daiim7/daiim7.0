@@ -1,13 +1,10 @@
-# daiim7.0
+# daiim7.0  台音7.0 
 通用拼音 台華輸入法
-
-
-台音7.0      
 輸入 支援 台語華語 通用拼音 標準+相容+快打 拼寫法，  
 自動詞條記憶 等等。  
 現在 只有 Win10版。  
 
-## slides <a href = "https://sites.google.com/view/daiim70etc/home"> slides</a>
+<!-- ## slides <a href = "https://sites.google.com/view/daiim70etc/home"> slides</a> -->
   
   
 <!--big> 下載  <a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20200819.zip" download>台音7.0 安裝程式</a> </big-->
@@ -30,6 +27,9 @@
 - 輸入法 **選單**： 輸入窗中 滑鼠右鍵
 
 ## **Happy Typing**
+
+
+
 
 
 <!--
