@@ -66,6 +66,7 @@
 <img src="defender1.PNG"  width="35%" />   
 <img src="defender2.PNG" width="35%" />    
 
+--- 
 
 ## ● 【記憶詞條 更新須知】 @2020.1006   
 
