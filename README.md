@@ -52,15 +52,15 @@
 
 以下 是 發生過 3例(總共 只有3次)  
 
-1.Windows Defender (可能輕微)  
+● Windows Defender (可能輕微)  
 　(McAfee過期， 退化成 Windows Defender)  
 　• 出現 下圖1。 點選 中央【其他資訊】  
 　• 出現 下圖2。 點選 下方【仍要執行】  
-2. codomo  (嚴重， TeamViewer手動安裝)  
-3. kabasky (古早dù₄過， 暫時關閉 防毒軟體)  
-
-<img src="defender1.PNG"  width="30%" />   
-<img src="defender2.PNG" width="30%" />    
+● codomo  (嚴重， TeamViewer手動安裝)  
+● kabasky (古早dù₄過， 暫時關閉 防毒軟體)  
+  
+<img src="defender1.PNG"  width="35%" />   
+<img src="defender2.PNG" width="35%" />    
 
 
 ## ● 【記憶詞條 更新須知】 @2020.1006   
