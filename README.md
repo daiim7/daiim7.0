@@ -59,6 +59,9 @@
 2. codomo  (嚴重， TeamViewer手動安裝)  
 3. kabasky (古早dù₄過， 暫時關閉 防毒軟體)  
 
+<img src="defender1.PNG"/>   
+<img src="defender2.PNG"/>    
+
 
 ## ● 【記憶詞條 更新須知】 @2020.1006   
 
