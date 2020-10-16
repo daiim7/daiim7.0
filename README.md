@@ -13,6 +13,8 @@
 【相容輸入】 相近拼音 容異  
 【自動記憶】 使用中 個人化  
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <!-- 【單字專齒】　[space]預選轉換  -->
 
 <!-- ## slides <a href = "https://sites.google.com/view/daiim70etc/home"> slides</a> -->
