@@ -11,7 +11,7 @@
 【多字輸入】 減少選字麻煩  
 【免打聲調】 快速方便  
 【相容輸入】 相近拼音 容異  
-【自動記憶】 使用中 個人化  
+【自動記憶】 使用中 個人化1    
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> some </iframe>
