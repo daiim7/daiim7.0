@@ -23,8 +23,7 @@
 
 ---  
 
-## ● 下載　<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20201016.zip" download>台音7.0 安裝程式</a> (2020.1016 版本)　　 
-(前版 2020.1009)  
+## ● 下載　<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20201026.zip" download>台音7.0 安裝程式</a> (2020.1026 版本)　　 (前版 2020.1016)  
 
 <!-- ### 更新中， 請等待 -->
 
@@ -50,11 +49,14 @@
 
 ---   
 
-###  試驗 (花車gàh₆貨車 --- 盧老師)     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>   
+###  試驗 (1. 花車gàh₆貨車 --- 盧老師　　　　2. 切桃仔 --- 盧老師)     
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 切桃仔 </iframe>   
+
 
 <!-- 
 https://www.youtube.com/watch?v=EUHkI0PzWBg   花車gàh₆貨車
+https://www.youtube.com/watch?v=Y_dbAw7VO0k   切桃仔
+
 some said key to show is "embed" in youtube address
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->
