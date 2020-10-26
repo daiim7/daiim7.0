@@ -50,7 +50,7 @@
 ---   
 
 ###  試驗 (1. 花車gàh₆貨車 --- 盧老師　　　　2. 切桃仔 --- 盧老師)     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 切桃仔 </iframe>   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_dbAw7VO0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 切桃仔 </iframe>   
 
 
 <!-- 
