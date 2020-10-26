@@ -14,13 +14,6 @@
 【自動記憶】 使用中 個人化    
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> some </iframe>
-
-<!-- 
-https://www.youtube.com/watch?v=EUHkI0PzWBg
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
--->
-
 <!-- 【單字專齒】　[space]預選轉換  -->
 
 <!-- ## slides <a href = "https://sites.google.com/view/daiim70etc/home"> slides</a> -->
@@ -53,6 +46,16 @@ https://www.youtube.com/watch?v=EUHkI0PzWBg
 - 輸入法 **選單**： 輸入窗中 滑鼠右鍵
 
 ### **Happy Typing**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>
+
+<!-- 
+https://www.youtube.com/watch?v=EUHkI0PzWBg   花車gàh₆貨車
+some said key to show is "embed" in youtube address
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+-->
+
+
 
 ---
 
