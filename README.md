@@ -13,9 +13,11 @@
 【相容輸入】 相近拼音 容異  
 【自動記憶】 使用中 個人化  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> some </iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> some </iframe>
 
 <!-- 
+https://www.youtube.com/watch?v=EUHkI0PzWBg
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->
 
