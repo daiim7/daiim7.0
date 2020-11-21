@@ -23,7 +23,7 @@
 
 ---  
 
-## ● 下載　<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20201026.zip" download>台音7.0 安裝程式</a> (2020.1026 版本)　　 (前版 2020.1016)  
+## ● 下載　<a href="di%E5%8F%B0%E9%9F%B37.0%E5%AE%89%E8%A3%9DWindows%E7%89%88_20201120.zip" download>台音7.0 安裝程式</a> (2020.1120 版本)　　 (前版 2020.1026)  
 
 <!-- ### 更新中， 請等待 -->
 
@@ -48,6 +48,9 @@
 ### **Happy Typing**  
 
 ---   
+
+<img src="2019.07 1拼音表 (注音 → 通用+漢語).PNG"  width="35%" />   <img src="2019.07 2官標表 (官方標準 拼寫法).PNG" width="42%" />    
+
 
 ###  試驗 (1. 花車gàh₆貨車 --- 盧老師　　　　2. 切桃仔 --- 盧老師)     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_dbAw7VO0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 切桃仔 </iframe>   
@@ -96,6 +99,8 @@ some said key to show is "embed" in youtube address
 
 --- 
 
+<!-- 
+
 ## ● 【記憶詞條 更新須知】 @2020.1006   
 
 台音7.0 記憶詞條   
@@ -108,6 +113,8 @@ some said key to show is "embed" in youtube address
 (1) 如果 記憶詞條無濟＆放棄， 可直接 輸入法更新  
 (2) 如果 bheh₆保留 記憶詞條， 請連絡作者    
 　　(作者 限時服務： 用TeamViewer 來手動更新)  
+
+-->
 
 <!-- 
 ## ● 【記憶詞條 更新須知】 @2020.0924   
