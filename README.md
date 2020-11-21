@@ -49,9 +49,10 @@
 
 ---   
 
-<img src="2019.07 1拼音表 (注音 → 通用+漢語).PNG"  width="35%" />   
+<img src="2019.07 1拼音表 (注音 → 通用+漢語).PNG"  width="42%" />   
+<!-- 
 <img src="2019.07 2官標表 (官方標準 拼寫法).PNG" width="42%" />    
-
+-->  
 
 ###  試驗 (1. 花車gàh₆貨車 --- 盧老師　　　　2. 切桃仔 --- 盧老師)     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUHkI0PzWBg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 花車gàh₆貨車 </iframe>   <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_dbAw7VO0k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> 切桃仔 </iframe>   
